@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>spr/mapaPacman.png</file>
+        <file>spr/pacman0.png</file>
+        <file>spr/pacmanABAJO1.png</file>
+        <file>spr/pacmanARRIBA1.png</file>
+        <file>spr/pacmanDERECHA1.png</file>
+        <file>spr/pacmanIZQUIERDA1.png</file>
+        <file>spr/blinky.png</file>
+        <file>spr/fantasmasBlue.png</file>
+        <file>spr/ojos.png</file>
+    </qresource>
+</RCC>

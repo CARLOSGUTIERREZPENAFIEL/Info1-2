@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fondo.png</file>
+        <file>pacman0.png</file>
+        <file>pacmanABAJO1.png</file>
+        <file>pacmanABAJO2.png</file>
+        <file>pacmanARRIBA1.png</file>
+        <file>pacmanARRIBA2.png</file>
+        <file>pacmanDERECHA1.png</file>
+        <file>pacmanDERECHA2.png</file>
+        <file>pacmanIZQUIERDA1.png</file>
+        <file>pacmanIZQUIERDA2.png</file>
+        <file>F1.png</file>
+        <file>punto.png</file>
+    </qresource>
+</RCC>
